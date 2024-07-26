@@ -1,5 +1,5 @@
 desenho = """
-PATRONO DE LILY
+"adicione patrono de cervo de Harry"
                        .     _,
                        |`\__/ /
                        \  . .(
